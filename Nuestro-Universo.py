@@ -1,9 +1,9 @@
 import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
-streamlit
-plotly
-pandas
+import streamlit
+import plotly
+import pandas
 
 # 1. Configuración de la página
 st.set_page_config(page_title="Simulador del Universo", layout="wide")
